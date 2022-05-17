@@ -1,0 +1,25 @@
+header {
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vw;
+    height: 200px;
+    background-color: rgb(74, 73, 73);
+    /* border-bottom: 5px solid black; */
+}
+
+body {
+    background-color: lightgrey;
+}
+
+main {
+    height: 75vh;
+    background-color: white;
+    margin:0 12vw;
+}
+
+footer {
+    height: 5vh;
+    background-color: black;
+    margin: 0 12vw;
+}

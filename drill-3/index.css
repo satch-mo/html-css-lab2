@@ -1,0 +1,44 @@
+header {
+    width: 100vw;
+    height: 10vh;
+    background-color: lightgrey;
+    display: flex;
+}
+
+header > div {
+    width: 3em;
+    height: 3em;
+    background-color: rgb(67, 106, 222);
+    margin: 16px;
+}
+
+main {
+    width: 100vw;
+    height: 30vh;
+    align-items:center;
+}
+ p {
+     padding: 3% 10vw;
+ }
+
+ div {
+    height: 20vh;
+    width: 100vw;
+ }
+
+#blue {
+    background-color: rgb(67, 106, 222);
+}
+
+#aquamarine {
+    background-color: aquamarine
+} 
+
+#green {
+    background-color: rgb(185, 243, 93);
+}
+
+#yellow {
+    background-color: rgb(241, 226, 52);
+ }
+

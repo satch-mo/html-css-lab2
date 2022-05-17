@@ -1,0 +1,71 @@
+header {
+    /* position:absolute;
+    display: flex; */
+    border: 5px solid black;
+    height: 200px;
+    margin:15px;
+}
+
+div {
+    display: inline-block;
+    align-items: flex-end;
+    display: flex;
+    justify-content: flex-start;
+} 
+
+#purplerectangle {
+    background-color: purple;
+    height: 150px;
+    width: 50px;
+    margin: 40px 10px;
+}
+
+#greenrectangle {
+    background-color: green;
+    height: 175px;
+    width: 350px;
+    margin-left: 110px;
+    margin-top: -215px;
+}
+
+#bluecircle {
+    background-color: lightskyblue;
+    height: 175px;
+    width: 175px;
+    border-radius:50%;
+    margin-top: -175px;
+    margin-left: 495px;
+}
+
+#yellowbox {
+    background-color: beige;
+    height:175px;
+    width: 100vs;
+    margin: 40px 40px;
+    box-shadow: 5px 5px 8px;
+}
+
+main {
+    border: 5px dotted black;
+    height: 250px;
+    margin:15px;
+}
+
+footer {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:30vh;
+    width: 40vw;
+    margin: 0 30vw;
+    border: 1px solid grey;
+    box-shadow: 5px 5px 8px;
+}
+
+#friendship {
+    text-align:center;
+    font-size: 2em;
+    letter-spacing: 10px;
+    color: navy;
+    font-weight: bold;  
+}
